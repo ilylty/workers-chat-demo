@@ -15,5 +15,5 @@ fallthrough = false
 
 # Indicate that you want the ChatRoom class to be callable as a Durable Object.
 [[migrations]]
-tag = "v1"                                       # Should be unique for each entry
+tag = "v2"                                       # Should be unique for each entry
 new_sqlite_classes = ["ChatRoom"]
